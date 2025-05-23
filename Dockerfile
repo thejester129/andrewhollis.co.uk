@@ -8,5 +8,5 @@ RUN bundle install
 
 COPY . .
 
-CMD ["bundle", "exec", "jekyll", "serve", "--port", "4129", "-H", "0.0.0.0"]
+CMD ["bundle", "exec", "jekyll", "serve", "--port", "4129", "-H", "0.0.0.0", "--livereload", "--force_polling"]
 
