@@ -1,0 +1,16 @@
+version: 1
+frontend:
+  phases:
+    build:
+      commands:
+        - rvm install 3.2.0
+        - rvm use 3.2.0
+        - yum -y install gsl-devel
+        - bundle install
+        - jekyll b
+  artifacts:
+    baseDirectory: _site
+    files:
+      - '**/*'
+  cache:
+    paths: []
