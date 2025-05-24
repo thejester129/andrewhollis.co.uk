@@ -1,16 +1,15 @@
 ---
-icon: fas fa-folder
-order: 1
+icon: fas fa-code
+order: 3
 layout: default
 ---
-  
+
 <div id="post-list" class="flex-grow-1 px-xl-1">
-  {% assign page_category = 'projects' %}
+  {% assign page_category = 'dev' %}
   {% for post in site.posts %}
     {% if post.categories contains page_category %}
       {% include blogthumb.html %}
     {% endif %}
   {% endfor %}
 </div>
-
 
