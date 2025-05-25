@@ -29,6 +29,9 @@ layout: default
 - [4th Year Project](/posts/gaming-for-health/)
 
 
+## <b>Certifications</b>
+- [Amazon Web Services Developer - Associate](https://www.credly.com/badges/1c45dc95-3d59-43e7-a0a6-065efc31b129/linked_in?t=swh8kc)
+
 
 
 

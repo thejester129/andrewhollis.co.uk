@@ -7,4 +7,4 @@ thumbnail: /assets/img/posts/the-inked-link-thumb.png
 image: /assets/img/posts/the-inked-link-thumb.png
 ---
 
-testing 1234
+[<b>Website</b>](https://www.theinkedlink.com/about)
