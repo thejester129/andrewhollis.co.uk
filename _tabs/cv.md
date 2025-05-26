@@ -16,10 +16,15 @@ layout: default
 
 - Working on the iOS side of a cross-platform app
 
-#### Summer Internship (June 2019 - Sep 2019)
+## <b>Summer Internships</b>
+
+#### Digital Health and Wellbeing Group (May 2020 - Aug 2020)
+
+- Researching, developing and evaluating a native Android digital health application based off an existing web app
+
+#### Linn Products (June 2019 - Sep 2019)
 
 - Working on Android front end of a cross platform Xamarin mobile application
-
 
 ## <b>Strathclyde University</b>
 

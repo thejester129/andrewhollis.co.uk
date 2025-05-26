@@ -19,7 +19,7 @@ title: Andrew Hollis # the main title
 tagline: # subtitle 
 
 description: >- # used by seo meta and the atom feed
-  Andrew Hollis website
+  Andrew Hollis Website
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -142,7 +142,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+paginate: 20
 
 # The base URL of your site
 baseurl: ""
