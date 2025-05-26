@@ -18,7 +18,7 @@ I was given free reign on the technical challenges of this:
 
 and last but not least
 
-- How to allow convinient voting from a browser while limiting spam
+- How to allow convenient voting from a browser while limiting spam
 
 
 ## Redirection
@@ -53,7 +53,7 @@ default theming which was an unusual experience working
 back the way to make something less styled.
 
 The website pulls a list of the current votes from today's date
-and allows the users to vote for one of the item's or
+and allows the users to vote for one of the items or
 submit their own link.
 
 

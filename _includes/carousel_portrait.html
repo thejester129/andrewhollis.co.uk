@@ -105,7 +105,7 @@ letterstring | split: ',' %} {% assign number = include.number | minus: 1 %}
     cursor: pointer;
     border-width: 5px 5px 0 0;
     border-style: solid;
-    border-color: #fafafa;
+    border-color: 00000055;
     opacity: 0.35;
     opacity: 1;
     outline: 0;
@@ -185,7 +185,7 @@ letterstring | split: ',' %} {% assign number = include.number | minus: 1 %}
     width: 30px;
   }
   .carousel__indicator {
-    background-color: #fafafa;
+    background-color: #00000055;
   }
   {% for item in page.carousels[number].images %}
   .carousel__slide:nth-of-type({{ forloop.index }}),

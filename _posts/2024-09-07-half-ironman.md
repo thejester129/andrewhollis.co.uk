@@ -7,6 +7,10 @@ thumbnail: /assets/img/posts/half-ironman-thumb.png
 image: /assets/img/posts/half-ironman-thumb.png
 ---
 
+Below are notes stream-of-consciencenessed from my experience.
+
+I hope at least some may be of use, at least to a comic effect.
+
 ### Swim
 
 - Practice at least once swimming in open water mass start.

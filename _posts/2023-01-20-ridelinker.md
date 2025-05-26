@@ -11,7 +11,6 @@ carousels:
     - image: /assets/img/ridelinker/ridelinker-2.jpg
     - image: /assets/img/ridelinker/ridelinker-3.jpg
     - image: /assets/img/ridelinker/ridelinker-4.jpg
-    - image: /assets/img/ridelinker/ridelinker-5.jpg
 
 ---
 
