@@ -4,11 +4,33 @@ order: 7
 layout: default
 ---
 
+
+# _Experience In:_
+
+### Languages
+- Typescript
+- C#
+- Python
+- Kotlin
+- Java
+- Go
+
+### Technologies
+- React
+- Redux
+- .NET
+- Docker
+- AWS
+- Android
+- React Native
+
+# _Roles:_
+
 ## <b>Linn Products</b>
 
 #### Software Engineer (Feb 2023 - current)
 
-- Developing and maintaining fullstack applications that talk to smart devices, CI/CD pipelines, cloud infrastructure, internal dashboards and tools. 
+- Developing and maintaining Fullstack applications that talk to smart devices, CI/CD pipelines, cloud infrastructure, internal dashboards and tools. 
 
 - Working with 3D graphics and creating room modelling software.
 
@@ -34,7 +56,7 @@ layout: default
 - [4th Year Project](/posts/gaming-for-health/)
 
 
-## <b>Certifications</b>
+# _Certifications:_
 - [Amazon Web Services Developer - Associate](https://www.credly.com/badges/1c45dc95-3d59-43e7-a0a6-065efc31b129/linked_in?t=swh8kc)
 
 
