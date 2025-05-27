@@ -52,7 +52,9 @@ I decided on a simple interface that fit my needs
 - A way to manually sync the files from the app or have them automatically 
 sync in the background every 12 hours
 
+<br>
 {% include carousel_portrait.html height="100" unit="%" duration="7" number="1" %}
+<br>
 
 The [SMBJ](https://github.com/hierynomus/smbj)
 library done a lot of the heavy lifting
