@@ -13,6 +13,7 @@ carousels:
     - image: /assets/img/cancer-helpmate/cancer-helpmate-4.jpg
     - image: /assets/img/cancer-helpmate/cancer-helpmate-5.jpg
     - image: /assets/img/cancer-helpmate/cancer-helpmate-6.jpg
+tags: android gamification
 ---
 
 This was a summer internship at the University of Strathclyde awarded to me by [EPSRC](https://www.ukri.org/councils/epsrc/) that would continue to build

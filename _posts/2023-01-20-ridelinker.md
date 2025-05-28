@@ -11,7 +11,7 @@ carousels:
     - image: /assets/img/ridelinker/ridelinker-2.jpg
     - image: /assets/img/ridelinker/ridelinker-3.jpg
     - image: /assets/img/ridelinker/ridelinker-4.jpg
-
+tags: react-native google-maps expo-go
 ---
 
 RideLinker spawned from a business idea from a gap in the market -

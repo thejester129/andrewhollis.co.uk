@@ -5,6 +5,7 @@ category: projects
 description: Software as Art
 thumbnail: /assets/img/posts/bits-and-bytes-thumb.png
 image: /assets/img/posts/bits-and-bytes-thumb.png
+tags: python
 ---
 
 Photo credit to [Jonathan Pratt](https://www.instagram.com/skodeer/)

@@ -5,6 +5,7 @@ category: projects
 description: Using gamification to enhance user retention
 thumbnail: /assets/img/posts/gaming-for-health-thumb.png
 # image: /assets/img/posts/gaming-for-health-thumb.png
+tags: android gamification
 ---
 
 <b>Gaming for Health</b> was my fourth year University Project that focused on engaging UI design and [Gamification](https://www.gamified.uk/user-types/gamification-mechanics-elements/)

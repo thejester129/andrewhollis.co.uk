@@ -5,6 +5,7 @@ category: projects
 description: Managing the challenges of a public voting website
 thumbnail: /assets/img/posts/the-inked-link-thumb.png
 image: /assets/img/posts/the-inked-link-thumb.png
+tags: aws
 ---
 
 [<b>The Inked Link</b>](https://www.theinkedlink.com/about) is a performance art project by

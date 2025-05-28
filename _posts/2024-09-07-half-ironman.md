@@ -5,6 +5,7 @@ category: blog
 description: Learning the hard way
 thumbnail: /assets/img/posts/half-ironman-thumb.png
 image: /assets/img/posts/half-ironman-thumb.png
+tags: ironman
 ---
 
 Below are notes stream-of-consciencenessed from my experience.

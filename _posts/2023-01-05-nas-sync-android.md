@@ -10,6 +10,7 @@ carousels:
     - image: /assets/img/posts/nas/nas1.png
     - image: /assets/img/posts/nas/nas2.png
     - image: /assets/img/posts/nas/nas3.png
+tags: android raspberry-pi kotlin
 ---
 
 Have a <b>Raspberry Pi</b> lying at home gathering dust?

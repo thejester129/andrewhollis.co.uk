@@ -5,7 +5,7 @@ layout: default
 ---
 
 
-# _Experience In:_
+# <ins>Experience In:</ins>
 
 ### Languages
 - Typescript
@@ -13,6 +13,7 @@ layout: default
 - Python
 - Kotlin
 - Java
+- Scala
 - Go
 
 ### Technologies
@@ -24,7 +25,7 @@ layout: default
 - Android
 - React Native
 
-# _Roles:_
+# <ins>Roles:</ins>
 
 ## <b>Linn Products</b>
 
@@ -56,7 +57,7 @@ layout: default
 - [4th Year Project](/posts/gaming-for-health/)
 
 
-# _Certifications:_
+# <ins>Certifications:</ins>
 - [Amazon Web Services Developer - Associate](https://www.credly.com/badges/1c45dc95-3d59-43e7-a0a6-065efc31b129/linked_in?t=swh8kc)
 
 
