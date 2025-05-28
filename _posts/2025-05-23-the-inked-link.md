@@ -169,3 +169,6 @@ to make the same email appear as different strings.
 
 This has been a reminder for any public facing application - 
 <b>Trust but Verify</b>.
+
+
+{% include likes.html postId="the-inked-link" %}

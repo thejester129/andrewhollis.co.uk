@@ -1,0 +1,41 @@
+<br />
+<div style="cursor: pointer" id="like-button">
+  <i style="margin-right: 10px" class="fa fa-thumbs-up"></i>
+  <span id="like-count"> </span> Likes
+  <script>
+    // get likes
+    const postId = "{{ include.postId }}";
+
+    fetch(
+      `https://clckelrx9k.execute-api.eu-west-1.amazonaws.com/prod/likes/${postId}`
+    )
+      .then((response) => response.json())
+      .then((data) => {
+        document.querySelector("#like-count").textContent = data.likes;
+      })
+      .catch((error) => {
+        console.error("Error fetching likes:", error);
+      });
+
+    document
+      .querySelector("#like-button")
+      .addEventListener("click", function () {
+        const likeCount =
+          parseInt(document.querySelector("#like-count").textContent) || 0;
+        document.querySelector("#like-count").textContent = likeCount + 1;
+
+        fetch(
+          `https://clckelrx9k.execute-api.eu-west-1.amazonaws.com/prod/likes/${postId}`,
+          {
+            method: "PUT",
+          }
+        ).then((response) => {
+          if (!response.ok) {
+            console.log(response);
+          } else {
+            window.location.reload();
+          }
+        });
+      });
+  </script>
+</div>

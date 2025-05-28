@@ -34,3 +34,5 @@ It taught me a lot of modern mobile technologies such as:
 
 
 {% include carousel_portrait.html height="100" unit="%" duration="7" number="1" %}
+
+{% include likes.html postId="ridelinker" %}

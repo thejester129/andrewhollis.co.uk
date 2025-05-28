@@ -94,3 +94,6 @@ Another one learned the hard way.
 
 - Bring someone with you! Crossing the finish line is much better
   if you have people around you to share the experience with
+
+
+{% include likes.html postId="half-ironman" %}

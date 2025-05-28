@@ -18,7 +18,7 @@ _Error Message_
 <br>
 
 
-<b>Likely Problem:</b>
+<b>Problem:</b>
 - Terminal is sending `\r` instead of `\n` to terminate a line. 
 `^M` is the ASCII representation of a carriage return, so its printing that instead of going to a new line.
 
@@ -48,3 +48,7 @@ _Woo Hoo_
 
 
 Happy coding!
+
+{% include likes.html postId="fix-enter-scala" %}
+
+<!-- {% include comments.html %} -->

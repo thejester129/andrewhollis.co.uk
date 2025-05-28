@@ -20,3 +20,5 @@ and think about machines.
 
 
 [<b>Github Repo</b>](https://github.com/thejester129/bits-and-bytes/)
+
+{% include likes.html postId="bits-and-bytes" %}

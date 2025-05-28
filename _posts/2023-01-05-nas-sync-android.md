@@ -70,3 +70,5 @@ Feel free to fork it and adapt it to your needs.
 Happy coding!
 
 
+
+{% include likes.html postId="nas-sync-android" %}
