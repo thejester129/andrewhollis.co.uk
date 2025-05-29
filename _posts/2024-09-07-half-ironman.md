@@ -97,4 +97,4 @@ Another one learned the hard way.
 
 
 
-{% include footer.html postId="half-ironman" %}
+{% include post-footer.html postId="half-ironman" %}

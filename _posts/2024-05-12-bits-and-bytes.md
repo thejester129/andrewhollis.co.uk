@@ -22,4 +22,4 @@ and think about machines.
 [<b>Github Repo</b>](https://github.com/thejester129/bits-and-bytes/)
 
 
-{% include footer.html postId="bits-and-bytes" %}
+{% include post-footer.html postId="bits-and-bytes" %}

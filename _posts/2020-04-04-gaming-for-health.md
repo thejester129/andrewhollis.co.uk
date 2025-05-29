@@ -20,4 +20,4 @@ This began my deep dive into learning more about native app development and crea
 [Final Report](https://docs.google.com/document/d/1aIKVkmGv-y2FtolOSEYI_e1NNtggPTuV/edit?usp=sharing&ouid=100625592034073894826&rtpof=true&sd=true){:target="_blank"}
 
 
-{% include footer.html postId="gaming-for-health" %}
+{% include post-footer.html postId="gaming-for-health" %}

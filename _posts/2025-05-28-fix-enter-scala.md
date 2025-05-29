@@ -50,4 +50,4 @@ _Woo Hoo_
 Happy coding!
 
 
-{% include footer.html postId="fix-enter-scala" %}
+{% include post-footer.html postId="fix-enter-scala" %}

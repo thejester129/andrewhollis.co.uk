@@ -5,6 +5,11 @@
   <script>
     // get likes
     const postId = "{{ include.postId }}";
+    const storedLikedPosts = getCookie("likedPosts");
+    let likedPosts = [];
+    if (!!storedLikedPosts || storedLikedPosts !== "") {
+      likedPosts = JSON.parse(storedLikedPosts);
+    }
 
     fetch(
       `https://clckelrx9k.execute-api.eu-west-1.amazonaws.com/prod/likes/${postId}`
@@ -20,6 +25,12 @@
     document
       .querySelector("#like-button")
       .addEventListener("click", function () {
+        if (likedPosts.includes(postId)) {
+          return;
+        }
+        likedPosts.push(postId);
+        setCookie("likedPosts", JSON.stringify(likedPosts), 365);
+
         const likeCount =
           parseInt(document.querySelector("#like-count").textContent) || 0;
         document.querySelector("#like-count").textContent = likeCount + 1;
@@ -35,5 +46,29 @@
           }
         });
       });
+
+    // cookies
+    function setCookie(cname, cvalue, exdays) {
+      const d = new Date();
+      d.setTime(d.getTime() + exdays * 24 * 60 * 60 * 1000);
+      let expires = "expires=" + d.toUTCString();
+      document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+    }
+
+    function getCookie(cname) {
+      let name = cname + "=";
+      let decodedCookie = decodeURIComponent(document.cookie);
+      let ca = decodedCookie.split(";");
+      for (let i = 0; i < ca.length; i++) {
+        let c = ca[i];
+        while (c.charAt(0) == " ") {
+          c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+          return c.substring(name.length, c.length);
+        }
+      }
+      return "";
+    }
   </script>
 </div>

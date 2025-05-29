@@ -32,4 +32,4 @@ on the research from my [4th Year Project](posts/gaming-for-health/) into Gamifi
 [<b>Github Repo</b>](https://github.com/thejester129/cancer-helpmate)
 
 
-{% include footer.html postId="cancer-helpmate" %}
+{% include post-footer.html postId="cancer-helpmate" %}
