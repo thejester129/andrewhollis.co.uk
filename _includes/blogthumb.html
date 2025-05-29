@@ -18,7 +18,12 @@
         <div class="post-meta flex-grow-1 d-flex align-items-end">
           <div class="me-auto">
             <i class="far fa-calendar fa-fw me-1"></i>
-            <time>{{ post.date| date: "%b %d, %Y" }}</time>
+            <time style="margin-right: 10px"
+              >{{ post.date| date: "%b %d, %Y" }}</time
+            >
+            {% for tag in post.tags %}
+            <div class="post-tag no-text-decoration">{{ tag }}</div>
+            {% endfor %}
           </div>
         </div>
       </div>

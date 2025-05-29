@@ -62,4 +62,8 @@ layout: default
 
 
 
+# <ins>Portfolio:</ins>
+- See this section for a list of my [projects](/projects)
+
+
 
