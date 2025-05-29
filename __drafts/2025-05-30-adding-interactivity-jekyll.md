@@ -1,3 +1,0 @@
-- likes
-- viewcount
-- comments
