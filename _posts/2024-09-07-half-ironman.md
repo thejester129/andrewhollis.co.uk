@@ -96,4 +96,5 @@ Another one learned the hard way.
   if you have people around you to share the experience with
 
 
-{% include likes.html postId="half-ironman" %}
+
+{% include footer.html postId="half-ironman" %}

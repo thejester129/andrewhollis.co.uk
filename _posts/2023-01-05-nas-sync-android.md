@@ -71,4 +71,4 @@ Happy coding!
 
 
 
-{% include likes.html postId="nas-sync-android" %}
+{% include footer.html postId="nas-sync-android" %}

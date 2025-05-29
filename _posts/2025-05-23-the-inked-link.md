@@ -171,4 +171,4 @@ This has been a reminder for any public facing application -
 <b>Trust but Verify</b>.
 
 
-{% include likes.html postId="the-inked-link" %}
+{% include footer.html postId="the-inked-link" %}

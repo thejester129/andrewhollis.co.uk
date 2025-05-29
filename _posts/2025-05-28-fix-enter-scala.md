@@ -49,6 +49,5 @@ _Woo Hoo_
 
 Happy coding!
 
-{% include likes.html postId="fix-enter-scala" %}
 
-<!-- {% include comments.html %} -->
+{% include footer.html postId="fix-enter-scala" %}
