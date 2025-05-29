@@ -3,7 +3,7 @@
   style="cursor: pointer; user-select: none; -webkit-user-select: none"
   id="like-button"
 >
-  <i style="margin-right: 10px" class="fa fa-thumbs-up"></i>
+  <i id="like-icon" style="margin-right: 10px" class="fa fa-thumbs-up"></i>
   <span id="like-count"> </span>
   Likes
   <script>
@@ -13,6 +13,10 @@
     let likedPosts = [];
     if (!!storedLikedPosts || storedLikedPosts !== "") {
       likedPosts = JSON.parse(storedLikedPosts);
+    }
+    const likeIcon = document.querySelector("#like-icon");
+    if (likedPosts.includes(postId)) {
+      likeIcon.style.color = "#fc0362";
     }
 
     fetch(
@@ -34,6 +38,7 @@
         }
         likedPosts.push(postId);
         setCookie("likedPosts", JSON.stringify(likedPosts), 365);
+        likeIcon.style.color = "#fc0362";
 
         const likeCount =
           parseInt(document.querySelector("#like-count").textContent) || 0;
