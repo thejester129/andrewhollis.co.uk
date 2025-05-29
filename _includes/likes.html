@@ -1,7 +1,11 @@
 <br />
-<div style="cursor: pointer" id="like-button">
+<div
+  style="cursor: pointer; user-select: none; -webkit-user-select: none"
+  id="like-button"
+>
   <i style="margin-right: 10px" class="fa fa-thumbs-up"></i>
-  <span id="like-count"> </span> Likes
+  <span id="like-count"> </span>
+  Likes
   <script>
     // get likes
     const postId = "{{ include.postId }}";
