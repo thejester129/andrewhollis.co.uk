@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing the challenges of a public voting website
-category: projects
+category: dev
 description: Strategies to secure a website without login
 thumbnail: /assets/img/posts/dev/managing-public-voting/thumb.png
 image: /assets/img/posts/dev/managing-public-voting/thumb.png
