@@ -37,7 +37,7 @@ Technologies:
 <br>
 <br>
 
-{% include carousel_portrait.html height="100" unit="%" duration="7" number="1" %}
+{% include carousel_portrait.html height="100" unit="%" number="1" %}
 
 <br>
 <br>

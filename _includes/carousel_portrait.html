@@ -134,6 +134,7 @@ letterstring | split: ',' %} {% assign number = include.number | minus: 1 %}
     height: 15px;
     width: 15px;
     border-radius: 100%;
+    border-color: red;
     display: inline-block;
     z-index: 2;
     cursor: pointer;
@@ -178,6 +179,7 @@ letterstring | split: ',' %} {% assign number = include.number | minus: 1 %}
     position: absolute;
     opacity: 0;
     overflow: hidden;
+    border-radius: 7px;
   }
   .carousel__slide .overlay {height: 100%;}
   .carousel--thumb .carousel__indicator {

@@ -4,7 +4,6 @@ title: The Inked Link
 category: projects
 description: A public voting website to redirect a QR tattoo on an artists body
 thumbnail: /assets/img/posts/the-inked-link-thumb.png
-image: /assets/img/posts/the-inked-link-thumb.png
 tags: spam-detection public-voting aws
 ---
 

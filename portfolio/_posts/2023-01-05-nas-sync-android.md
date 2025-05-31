@@ -4,7 +4,6 @@ title: NAS Sync Android
 category: projects
 description: Google Photo Cloud at home on a Raspberry PI
 thumbnail: /assets/img/posts/nas/thumb.jpeg
-image: /assets/img/posts/nas/thumb.jpeg
 carousels:
   - images: 
     - image: /assets/img/posts/nas/nas1.png
@@ -54,7 +53,7 @@ I decided on a simple interface that fit my needs
 sync in the background every 12 hours
 
 <br>
-{% include carousel_portrait.html height="100" unit="%" duration="7" number="1" %}
+{% include carousel_portrait.html height="100" unit="%" number="1" %}
 <br>
 
 The [SMBJ](https://github.com/hierynomus/smbj)

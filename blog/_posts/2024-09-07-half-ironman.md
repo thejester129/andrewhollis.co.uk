@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lessons from first Half-Ironman
+title: Lessons from my first Half-Ironman
 category: blog
 description: Learning the hard way
 thumbnail: /assets/img/posts/half-ironman-thumb.png
