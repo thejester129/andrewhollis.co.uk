@@ -1,9 +1,9 @@
 <div style="text-align: right; margin-top: -30px">
-  Views:
-  <span id="view-count-div"></span>
+  <!-- Views: -->
+  <!-- <span id="view-count-div"></span> -->
   <script>
     window.onload = function () {
-      const viewDiv = document.querySelector("#view-count-div");
+      // const viewDiv = document.querySelector("#view-count-div");
       // load storage
       const storedViewedPosts = getCookie("viewedPosts");
       let viewedPosts = [];
@@ -16,7 +16,7 @@
         `https://clckelrx9k.execute-api.eu-west-1.amazonaws.com/prod/views/${postId}`
       )
         .then((response) => response.json())
-        .then((data) => (viewDiv.textContent = data.views))
+        // .then((data) => (viewDiv.textContent = data.views))
         .catch((error) => {
           console.error("Error fetching views:", error);
         });
