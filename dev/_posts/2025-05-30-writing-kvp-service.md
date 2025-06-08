@@ -6,6 +6,7 @@ description: Benchmarking C#, Go, Node & Python
 image: /assets/img/posts/kvp-service-comparison/thumb.png
 thumbnail: /assets/img/posts/kvp-service-comparison/thumb.png
 tags: c# go node python api dynamodb comparison
+# pin: true TODO
 ---
 
 Recently at work I was working on a project to write an API service
