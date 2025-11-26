@@ -3,7 +3,7 @@ icon: fas fa-music
 order: 4
 carousels:
   - images: 
-    - image: /assets/img/posts/music/music_landscape.jpg
+    - image: /assets/img/music/music_landscape.jpg
 ---
 
 {% include carousel.html height="50" unit="%" number="1" %} -->
