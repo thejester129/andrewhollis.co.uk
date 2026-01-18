@@ -7,7 +7,7 @@ thumbnail: /assets/img/posts/portfolio/accent-guesser/accent-guesser-portfolio.p
 tags: website game map
 carousels:
   - images: 
-    - image: /assets/img/posts/portfolio/accent-guesser/accent-guesser-portolio.png
+    - image: /assets/img/posts/portfolio/accent-guesser/accent-guesser-portfolio.png
 ---
 
 <br>
