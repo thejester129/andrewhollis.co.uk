@@ -6,7 +6,7 @@ carousels:
     - image: /assets/img/music/music_landscape.jpg
 ---
 
-{% include carousel.html height="50" unit="%" number="1" %} -->
+{% include carousel.html height="50" unit="%" number="1" %} 
 
 
 #### Satiracy
