@@ -1,6 +1,6 @@
 ---
 icon: fas fa-music
-order: 4
+order: 5
 carousels:
   - images: 
     - image: /assets/img/music/music_landscape.jpg

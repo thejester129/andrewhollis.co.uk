@@ -1,0 +1,25 @@
+<article class="card-wrapper card" style="margin-bottom: 40px">
+  <a href="{{ post.url }}" class="post-preview row g-0 flex-md-row-reverse">
+    <div class="col-md-5"></div>
+    <div class="col-md-7">
+      <div class="card-body d-flex flex-column">
+        <h1 class="card-title my-2 mt-md-0">{{ post.title }}</h1>
+        <div style="color: gray; padding-bottom: 10px">
+          {% for line in post.blurb %}
+          <div>{{ line }}</div>
+          {% endfor %}
+          <div>...</div>
+        </div>
+        <div class="post-meta flex-grow-1 d-flex align-items-end">
+          <div class="me-auto">
+            <i class="far fa-calendar fa-fw me-1"></i>
+            <time style="margin-right: 10px"
+              >{{ post.date| date: "%b %d, %Y" }}</time
+            >
+            <span>{{ post.author }}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</article>
