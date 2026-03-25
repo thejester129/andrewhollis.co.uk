@@ -2,7 +2,7 @@
 layout: post
 title: We Are All Worthy of a Pedestal
 category: translations
-author: I. Bagaev
+writer: I. Bagaev
 blurb: 
   - We are all worthy of a pedestal
   - And all to life we should be true

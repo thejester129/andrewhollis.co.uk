@@ -2,7 +2,7 @@
 layout: post
 title: The Colour of your Love Comes from Dreams
 category: translations
-author: I. Bagaev
+writer: I. Bagaev
 blurb: 
 - The colour of your love comes from dreams
 - From a distant likeness you appear

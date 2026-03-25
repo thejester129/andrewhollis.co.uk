@@ -2,7 +2,7 @@
 layout: post
 title: Dear to Heart
 category: translations
-author: I. Bagaev
+writer: I. Bagaev
 blurb: 
 - I want to walk the fields anew
 - Hear songs and whispering of rye

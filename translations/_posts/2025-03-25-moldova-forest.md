@@ -2,7 +2,7 @@
 layout: post
 title: Moldova Forest
 category: translations
-author: I. Bagaev
+writer: I. Bagaev
 blurb: 
 - Our Moldova with hills that stretch out
 - Over its gardens and vineyards

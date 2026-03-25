@@ -2,7 +2,7 @@
 layout: post
 title: Poppies in the Field
 category: translations
-author: I. Bagaev
+writer: I. Bagaev
 blurb: 
 - At the place of a battle not long ago
 - A field stretches out, flock of birds in the sky
