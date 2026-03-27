@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dear to Heart
+title: Dear to Heart - Ivan Bagaev
 category: translations
 writer: I. Bagaev
 blurb: 
@@ -53,7 +53,6 @@ The oaks endure, tall and proud
 
 <br>
 
-#### Ivan Bagaev
-##### Translated by Andrew Hollis
+#### Translated by Andrew Hollis
 
 {% include post-footer.html postId="dear-to-heart" %}

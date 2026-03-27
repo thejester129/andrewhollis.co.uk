@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Colour of your Love Comes from Dreams
+title: The Colour of your Love Comes from Dreams - Ivan Bagaev
 category: translations
 writer: I. Bagaev
 blurb: 
@@ -44,7 +44,7 @@ Eternal youth will always be
 
 <br>
 
-#### Ivan Bagaev
-##### Translated by Andrew Hollis
+
+#### Translated by Andrew Hollis
 
 {% include post-footer.html postId="the-colour-of-your-love" %}

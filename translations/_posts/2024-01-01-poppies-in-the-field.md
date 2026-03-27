@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poppies in the Field
+title: Poppies in the Field - Ivan Bagaev
 category: translations
 writer: I. Bagaev
 blurb: 
@@ -52,7 +52,7 @@ Me and this grief will not ever make peace
 
 Not to forget, not to weep is my sentence
 
-But silently bow for all those that i miss
+But silently bow for all those that I miss
 
 <br>
 
@@ -66,7 +66,7 @@ And mourn all the ones who live on in my heart
 
 <br>
 
-#### Ivan Bagaev
-##### Translated by Andrew Hollis
+
+#### Translated by Andrew Hollis
 
 {% include post-footer.html postId="eternity" %}

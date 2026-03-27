@@ -1,6 +1,6 @@
 ---
 icon: fas fa-envelope
-order: 4
+order: 2
 layout: default
 ---
 

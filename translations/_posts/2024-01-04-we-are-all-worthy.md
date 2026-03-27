@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Are All Worthy of a Pedestal
+title: We Are All Worthy of a Pedestal - Ivan Bagaev
 category: translations
 writer: I. Bagaev
 blurb: 
@@ -68,7 +68,7 @@ Who tirelessly walk towards the light
 
 <br>
 
-#### Ivan Bagaev
-##### Translated by Andrew Hollis
+
+#### Translated by Andrew Hollis
 
 {% include post-footer.html postId="we-are-all-worthy" %}

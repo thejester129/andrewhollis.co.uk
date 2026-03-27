@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moldova Forest
+title: Moldova Forest - Ivan Bagaev
 category: translations
 writer: I. Bagaev
 blurb: 
@@ -43,7 +43,7 @@ And hear the swan songs of the lake
 
 <br>
 
-Deep in the lands expansive landmass
+Deep in her vast expansive landmass
 
 The taiga forest sleeps and dreams
 
@@ -73,7 +73,6 @@ Like homeland for it I'm glad
 
 <br>
 
-#### Ivan Bagaev
-##### Translated by Andrew Hollis
+#### Translated by Andrew Hollis
 
 {% include post-footer.html postId="eternity" %}
