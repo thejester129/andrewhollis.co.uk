@@ -27,9 +27,9 @@ The kind and giving hand of Russia
 
 Offering earth and sky above 
 
-Also sends strong, lush and gorgeous
+Also sends with it lush and gorgeous
 
-Harmonious forest full of love
+Harmonious forests full of love
 
 <br>
 
@@ -45,7 +45,7 @@ And hear the swan songs of the lake
 
 Deep in her vast expansive landmass
 
-The taiga forest sleeps and dreams
+The taiga mind sleeps and dreams
 
 Those on the river crossing bypass 
 

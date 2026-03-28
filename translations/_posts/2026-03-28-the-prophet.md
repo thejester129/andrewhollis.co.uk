@@ -3,58 +3,58 @@ layout: post
 title: The Prophet - Mikhail Lermantov
 category: translations
 blurb: 
-- Ever since the Creator did
-- Give me divine gift of sight
+- One day the Divine Judge saw fit
+- To grant the gift of sacred sight
 - In people I could now read
-- Stories of malice and of spite
+- Stories of pettiness and spite
 tags: translations poetry
 ---
 
-Ever since the Creator did
+One day the Divine Judge saw fit
 
-Give me divine gift of sight
+To grant the gift of sacred sight
 
 In people I could now read
 
-Stories of malice and of spite
+Stories of pettiness and spite
 
 <br>
 
 Of love I sang, the songs of flowers
 
-Of teachings pure, in quiet tones
+Of pure teachings, subdued tones
 
 And all my dear friends and brothers
 
-Against me raised and aimed their stones
+Against me took and raised their stones
 
 <br>
 
-I sprinkled ashes on my brow
+The ashes sprinkled on my brow
 
-Cast off the city in disgrace
+Cast from their cities in disgrace
 
-The fields I walked and drove my plow
+In fields I walked and drove my plow
 
-Like birds, living off his embrace
-
-<br>
-
-The covenant of the truth I hold
-
-The earthly creatures my way bow
-
-And stars teaching me wisdoms old
-
-Their light consecrating my vow
+Like birds, feeding off His embrace
 
 <br>
 
-And when through desert and through frost
+Told me a covenant I hold
 
-I stepped barefoot without a blister
+My earthly creatures your way bow
 
-The old ones pulled their young ones close
+And stars will teach you wisdoms old
+
+Their light will consecrate your vow
+
+<br>
+
+And when through desert and through storm
+
+I stepped barefoot with not a blister
+
+The old ones pulled the young ones close
 
 And told them in a knowing whisper:
 
@@ -74,7 +74,7 @@ Look at him children: you will see
 
 His rags are dirty, mind is dim
 
-Think on it and you will agree
+Think on it, think you will agree
 
 Oh what a poor end to him"
 

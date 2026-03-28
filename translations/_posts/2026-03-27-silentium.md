@@ -34,9 +34,9 @@ A stranger grasp just how we live?
 
 A shared thought - like sand through sieve
 
-Digging uproots, dries out the tree 
+Digging disturbs, uproots the tree 
 
-Just let her nourish - silently.
+Just let it nourish - quietly.
 
 <br>
 
@@ -44,13 +44,13 @@ Be present with your own mind -
 
 A universe given us to find
 
-Deep wisdom sets the heart aflutter,
+Deep wisdom sets the heart aflutter
 
 Drowned out by external chatter
 
 And daylight rays - they blind thee 
 
-Close your eyes, listen. Quiet be.
+Close your eyes, listen. Silent be.
 
 <br>
 

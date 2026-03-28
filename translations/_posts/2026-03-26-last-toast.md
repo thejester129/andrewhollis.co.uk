@@ -25,11 +25,11 @@ For this I raise my glass to you
 
 To lips that betray all my lies
 
-This life, just steps towards a grave
+A life, some steps towards a grave
 
-For the coldness etched into my eyes
+For coldness etched into my eyes
 
-Saw God who'd chosen not to save
+That saw God choosing not to save
 
 <br>
 
