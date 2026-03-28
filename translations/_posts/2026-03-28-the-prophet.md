@@ -20,39 +20,39 @@ Stories of pettiness and spite
 
 <br>
 
-Of love I sang, the songs of flowers
+Of love I sang, songs of all flowers
 
 Of pure teachings, subdued tones
 
 And all my dear friends and brothers
 
-Against me took and raised their stones
+Against me raised sentencing stones
 
 <br>
 
-The ashes sprinkled on my brow
+Ashes sprinkled upon my brow
 
 Cast from their cities in disgrace
 
-In fields I walked and drove my plow
+Through fields I walked and drove my plow
 
-Like birds, feeding off His embrace
+Like birds, feeding off his embrace
 
 <br>
 
 Told me a covenant I hold
 
-My earthly creatures your way bow
+His earthly creatures my way bow
 
-And stars will teach you wisdoms old
+And stars will teach me wisdoms old
 
-Their light will consecrate your vow
+Their light will consecrate my vow
 
 <br>
 
 And when through desert and through storm
 
-I stepped barefoot with not a blister
+I stepped barefoot without blister
 
 The old ones pulled the young ones close
 
@@ -74,9 +74,9 @@ Look at him children: you will see
 
 The rags are dirty, mind dim
 
-Think on it, think you will agree
+Think on it, and you will agree
 
-Oh what a poor end to him"
+Oh what a poor end to him!"
 
 <br>
 
