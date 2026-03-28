@@ -9,8 +9,6 @@ blurb:
 - Take shape and settle, rise and fall
 - Like stars made just for you to see
 - Marvel at them - and let them be.
-# thumbnail: /assets/img/posts/half-ironman-thumb.png
-# image: /assets/img/posts/half-ironman-thumb.png
 tags: translations poetry
 ---
 
@@ -28,17 +26,17 @@ Marvel at them - and let them be.
 
 <br>
 
-How can the heart express its deeds,
+How can the heart express its deeds
 
 Another understand it's needs?
 
-Can they grasp means through which we live
+A stranger grasp just how we live?
 
-A shared thought like sand in sieve!
+A shared thought - like sand through sieve
 
-Digging disturbs, hollows the tree 
+Digging uproots, dries out the tree 
 
-Just let her nourish - in stillness be.
+Just let her nourish - silently.
 
 <br>
 
@@ -46,11 +44,11 @@ Be present with your own mind -
 
 A universe given us to find
 
-Mysteries which set heart aflutter,
+Deep wisdom sets the heart aflutter,
 
 Drowned out by external chatter
 
-And daylight rays which blind thee -
+And daylight rays - they blind thee 
 
 Close your eyes, listen. Quiet be.
 

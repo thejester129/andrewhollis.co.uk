@@ -4,7 +4,7 @@ title: Last Toast - Anna Akhmatova
 category: translations
 blurb: 
 - A toast for homes of brokenness
-- To my life wicked and untrue
+- To my life sinful and untrue
 - Eternity bound in our loneliness
 - For this I raise my glass to you
 # thumbnail: /assets/img/posts/half-ironman-thumb.png
@@ -15,9 +15,9 @@ tags: translations poetry
 
 A toast for homes of brokenness
 
-To my life wicked and untrue
+To my life sinful and untrue
 
-Eternally bound in our loneliness
+Eternity bound in our loneliness
 
 For this I raise my glass to you
 
@@ -25,11 +25,11 @@ For this I raise my glass to you
 
 To lips that betray all my lies
 
-This world, a dark and soulless cave
+This life, just steps towards a grave
 
-For coldness etched into my eyes
+For the coldness etched into my eyes
 
-Seeing God who'd chosen not to save
+Saw God who'd chosen not to save
 
 <br>
 
