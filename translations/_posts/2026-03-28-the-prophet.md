@@ -72,7 +72,7 @@ Wanted for all of us to bow
 
 Look at him children: you will see
 
-His rags are dirty, mind is dim
+The rags are dirty, mind dim
 
 Think on it, think you will agree
 
