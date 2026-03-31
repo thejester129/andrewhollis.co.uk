@@ -69,6 +69,5 @@ Who tirelessly walk towards the light
 <br>
 
 
-#### Translated by Andrew Hollis
 
 {% include post-footer.html postId="we-are-all-worthy" %}

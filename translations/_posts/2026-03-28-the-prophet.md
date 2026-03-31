@@ -154,7 +154,6 @@ Oh what a poor end to him!"
 <br>
 
 
-#### Translated by Andrew Hollis
 
 
 {% include post-footer.html postId="the-prophet" %}

@@ -73,6 +73,5 @@ Like homeland for it I'm glad
 
 <br>
 
-#### Translated by Andrew Hollis
 
 {% include post-footer.html postId="eternity" %}

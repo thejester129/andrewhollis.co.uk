@@ -45,6 +45,5 @@ Eternal youth will always be
 <br>
 
 
-#### Translated by Andrew Hollis
 
 {% include post-footer.html postId="the-colour-of-your-love" %}

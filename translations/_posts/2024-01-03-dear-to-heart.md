@@ -53,6 +53,5 @@ The oaks endure, tall and proud
 
 <br>
 
-#### Translated by Andrew Hollis
 
 {% include post-footer.html postId="dear-to-heart" %}

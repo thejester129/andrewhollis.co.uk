@@ -100,6 +100,5 @@ Close your eyes, listen. Silent be.
 <br> 
 
 
-#### Translated by Andrew Hollis
 
 {% include post-footer.html postId="silentium" %}

@@ -67,6 +67,4 @@ And mourn all the ones who live on in my heart
 <br>
 
 
-#### Translated by Andrew Hollis
-
 {% include post-footer.html postId="eternity" %}

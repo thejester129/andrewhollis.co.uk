@@ -56,7 +56,6 @@ That saw God choosing not to save
 
 <br>
 
-#### Translated by Andrew Hollis
 
 
 {% include post-footer.html postId="last-toast" %}
