@@ -107,9 +107,9 @@ The grass lay itself under our feet
 
 The sky turned golden before eyes as misty
 
-Fishes swam on the waves upon the sand
+Fish swam over the waves upon the sand
 
-The birds all followed, singing our tales
+The birds all followed, singing of our tales
 
 <br>
 
