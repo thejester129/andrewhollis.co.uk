@@ -77,7 +77,7 @@ Now human, with words everyday and small
 
 Speech slowly accepting form again
 
-And silences, revealing all unsaid
+And silences, revealing the unsaid
 
 Exchanging, endless meanings sprung and grew
 
@@ -87,11 +87,11 @@ A dictionary made for me and you
 
 From world of forms, the objects all made new
 
-The things around me, table and the glass
+The things around me, the table and the glass
 
 Now they were guarding space in front of you
 
-The air turned to water between us
+The air turning to water between us
 
 <br>
 
